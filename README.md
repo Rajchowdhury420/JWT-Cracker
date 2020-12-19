@@ -1,6 +1,6 @@
 # JWT-Cracker
 
-![JWT-Cracker](https://github.com/Rajchowdhury420/JWT-Cracker/blob/main/JWT-Cracker.png)
+![JWT-Cracker](https://github.com/Rajchowdhury420/JWT-Cracker/blob/main/dd.png)
 
 ## Install
 ```
