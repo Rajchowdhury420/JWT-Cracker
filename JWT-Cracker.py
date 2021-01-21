@@ -1,5 +1,4 @@
 #!/usr/bin/env python
-
 import jwt
 import base64
 from colorama import Fore, Style
